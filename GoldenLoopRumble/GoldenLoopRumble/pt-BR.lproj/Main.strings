@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "Priavcy Policy"; ObjectID = "57Q-Gi-84w"; */
+"57Q-Gi-84w.normalTitle" = "Priavcy Policy";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "6VC-lA-C0Z"; */
+"6VC-lA-C0Z.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "8XI-DN-Ckc"; */
+"8XI-DN-Ckc.text" = "Setting";
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "CBf-bH-Wpn"; */
+"CBf-bH-Wpn.normalTitle" = "About Us";
+
+/* Class = "UILabel"; text = "Welcome to Golden Loop Rumble! Challenge your wits, test your reflexes, and unlock thrilling levels. Adventure awaits in every tap!"; ObjectID = "CPf-X3-s6p"; */
+"CPf-X3-s6p.text" = "Welcome to Golden Loop Rumble! Challenge your wits, test your reflexes, and unlock thrilling levels. Adventure awaits in every tap!";
+
+/* Class = "UITextView"; text = "Golden Loop Rumble\nDescription of App:\nGolden Loop Rumble is an engaging puzzle and logic game combining the excitement of color-matching and number challenges. It brings together elements of strategic thinking and quick decision-making, providing hours of fun for players of all ages. The game features unique levels inspired by the Alphabet Color Quest and Number Hunt Grid concepts.\nHow to Use:\n\t1\tAlphabet Color Quest Mode:\n\t◦\tSelect a target alphabet and its corresponding color.\n\t◦\tTap on the grid cells to fill them with the correct color for the target alphabet.\n\t◦\tMatch all target alphabets with their colors before the timer runs out to win.\n\t2\tNumber Hunt Grid Mode:\n\t◦\tView the displayed target number on the screen.\n\t◦\tTap on the grid to find and match all instances of the target number.\n\t◦\tComplete matches to progress through levels and earn points.\n\t3\tGeneral Gameplay:\n\t◦\tProgress through increasingly challenging levels with time limits.\n\t◦\tScore points for each correct match and try to beat your high score.\n\t◦\tUtilize strategic thinking to match colors and numbers efficiently.\nBenefits of App:\n\t•\tCognitive Development: Enhances problem-solving skills, memory retention, and focus.\n\t•\tInteractive Learning: A perfect blend of fun and education, helping players recognize patterns and improve numerical and alphabetical skills.\n\t•\tEngaging Gameplay: Unique level designs ensure players remain hooked while striving to beat their high scores.\n\t•\tStress Relief: A soothing yet challenging experience, helping players relax while sharpening their minds.\n\t•\tSuitable for All Ages: Simple gameplay mechanics make it accessible for kids, while advanced levels offer challenges for adults.\nGolden Loop Rumble offers a dynamic gaming experience, merging learning with entertainment, ensuring fun-filled moments for every player!\n"; ObjectID = "GLS-nr-v98"; */
+"GLS-nr-v98.text" = "Golden Loop Rumble\nDescription of App:\nGolden Loop Rumble is an engaging puzzle and logic game combining the excitement of color-matching and number challenges. It brings together elements of strategic thinking and quick decision-making, providing hours of fun for players of all ages. The game features unique levels inspired by the Alphabet Color Quest and Number Hunt Grid concepts.\nHow to Use:\n\t1\tAlphabet Color Quest Mode:\n\t◦\tSelect a target alphabet and its corresponding color.\n\t◦\tTap on the grid cells to fill them with the correct color for the target alphabet.\n\t◦\tMatch all target alphabets with their colors before the timer runs out to win.\n\t2\tNumber Hunt Grid Mode:\n\t◦\tView the displayed target number on the screen.\n\t◦\tTap on the grid to find and match all instances of the target number.\n\t◦\tComplete matches to progress through levels and earn points.\n\t3\tGeneral Gameplay:\n\t◦\tProgress through increasingly challenging levels with time limits.\n\t◦\tScore points for each correct match and try to beat your high score.\n\t◦\tUtilize strategic thinking to match colors and numbers efficiently.\nBenefits of App:\n\t•\tCognitive Development: Enhances problem-solving skills, memory retention, and focus.\n\t•\tInteractive Learning: A perfect blend of fun and education, helping players recognize patterns and improve numerical and alphabetical skills.\n\t•\tEngaging Gameplay: Unique level designs ensure players remain hooked while striving to beat their high scores.\n\t•\tStress Relief: A soothing yet challenging experience, helping players relax while sharpening their minds.\n\t•\tSuitable for All Ages: Simple gameplay mechanics make it accessible for kids, while advanced levels offer challenges for adults.\nGolden Loop Rumble offers a dynamic gaming experience, merging learning with entertainment, ensuring fun-filled moments for every player!\n";
+
+/* Class = "UILabel"; text = "Embark on a thrilling journey, conquer exciting challenges, and dive into endless loops of fun!"; ObjectID = "JOs-aB-OCR"; */
+"JOs-aB-OCR.text" = "Embark on a thrilling journey, conquer exciting challenges, and dive into endless loops of fun!";
+
+/* Class = "UILabel"; text = "Golden Loop Rumble"; ObjectID = "Nvc-CG-Ebx"; */
+"Nvc-CG-Ebx.text" = "Golden Loop Rumble";
+
+/* Class = "UIButton"; normalTitle = "Alphabet Color Quest"; ObjectID = "S9C-sH-Xo7"; */
+"S9C-sH-Xo7.normalTitle" = "Alphabet Color Quest";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "Szc-bO-YaQ"; */
+"Szc-bO-YaQ.text" = "Message";
+
+/* Class = "UILabel"; text = "Selected Alphabet"; ObjectID = "Zbl-Pt-5xC"; */
+"Zbl-Pt-5xC.text" = "Selected Alphabet";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "bVG-zd-rSs"; */
+"bVG-zd-rSs.text" = "Score";
+
+/* Class = "UILabel"; text = "Target"; ObjectID = "ec0-tc-aIf"; */
+"ec0-tc-aIf.text" = "Target";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "htf-lM-yGD"; */
+"htf-lM-yGD.text" = "About Us";
+
+/* Class = "UILabel"; text = "Golden Loop Rumble"; ObjectID = "hvj-Mh-CQl"; */
+"hvj-Mh-CQl.text" = "Golden Loop Rumble";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "q6a-MW-w6S"; */
+"q6a-MW-w6S.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "About app"; ObjectID = "rii-Fz-jmd"; */
+"rii-Fz-jmd.normalTitle" = "About app";
+
+/* Class = "UIButton"; normalTitle = "Number Hunt Grid"; ObjectID = "vFS-n3-FTK"; */
+"vFS-n3-FTK.normalTitle" = "Number Hunt Grid";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "yBl-aZ-wlK"; */
+"yBl-aZ-wlK.normalTitle" = "Feedback";

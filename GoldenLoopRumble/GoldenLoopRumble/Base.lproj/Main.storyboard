@@ -9,10 +9,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Number Match GameVC-->
+        <!--Golden Number Match View Controller-->
         <scene sceneID="cuu-2P-ht2">
             <objects>
-                <viewController storyboardIdentifier="NumberMatchGameVC" id="mu2-CL-AdW" customClass="NumberMatchGameVC" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="NumberMatchGameVC" id="mu2-CL-AdW" customClass="GoldenNumberMatchViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="1hU-pO-ykZ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -364,10 +364,10 @@
             </objects>
             <point key="canvasLocation" x="1160" y="20"/>
         </scene>
-        <!--Alphabet GameVC-->
+        <!--Golden Alphabet Game View Controller-->
         <scene sceneID="pry-ps-kBW">
             <objects>
-                <viewController storyboardIdentifier="AlphabetGameVC" id="xRd-3L-WOK" customClass="AlphabetGameVC" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="AlphabetGameVC" id="xRd-3L-WOK" customClass="GoldenAlphabetGameViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="J7O-gS-VVG">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -840,10 +840,10 @@
             </objects>
             <point key="canvasLocation" x="448" y="14"/>
         </scene>
-        <!--HomeVC-->
+        <!--Golden Home View Controller-->
         <scene sceneID="lvY-OB-fsf">
             <objects>
-                <viewController storyboardIdentifier="HomeVC" id="9xM-g7-Tnn" customClass="HomeVC" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="HomeVC" id="9xM-g7-Tnn" customClass="GoldenHomeViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="DqY-Hk-Xqe">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1071,10 +1071,10 @@ Golden Loop Rumble offers a dynamic gaming experience, merging learning with ent
             </objects>
             <point key="canvasLocation" x="69" y="799"/>
         </scene>
-        <!--SettingVC-->
+        <!--Golden Setting View Controller-->
         <scene sceneID="ItZ-GF-3HA">
             <objects>
-                <viewController storyboardIdentifier="SettingVC" id="Swg-Ca-6Oc" customClass="SettingVC" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SettingVC" id="Swg-Ca-6Oc" customClass="GoldenSettingViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hbX-d4-gEr">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1201,7 +1201,7 @@ Golden Loop Rumble offers a dynamic gaming experience, merging learning with ent
         <!--Golden Privacy View Controller-->
         <scene sceneID="kQB-gE-Vvn">
             <objects>
-                <viewController id="lb3-dV-sOb" customClass="GoldenPrivacyViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="GoldenPrivacyViewController" id="lb3-dV-sOb" customClass="GoldenPrivacyViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="d3H-oV-dnb">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1230,6 +1230,12 @@ Golden Loop Rumble offers a dynamic gaming experience, merging learning with ent
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="udW-SH-wJU"/>
+                    <connections>
+                        <outlet property="bottomCos" destination="crs-JU-kDy" id="LUh-Zc-mQM"/>
+                        <outlet property="goldenWebView" destination="4he-Ti-4vJ" id="aEO-at-c7S"/>
+                        <outlet property="indicatorView" destination="KkG-xf-0QU" id="QcD-uj-cJu"/>
+                        <outlet property="topCos" destination="94x-vX-wmP" id="xcC-o9-X6h"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="PyP-rO-Sl9" sceneMemberID="firstResponder"/>
             </objects>
@@ -1253,10 +1259,10 @@ Golden Loop Rumble offers a dynamic gaming experience, merging learning with ent
             </objects>
             <point key="canvasLocation" x="-1650" y="15"/>
         </scene>
-        <!--View Controller-->
+        <!--Golden Start View Controller-->
         <scene sceneID="Zxv-3h-cO9">
             <objects>
-                <viewController storyboardIdentifier="ViewController" id="2wo-pG-5Z7" customClass="ViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="2wo-pG-5Z7" customClass="GoldenStartViewController" customModule="GoldenLoopRumble" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qqM-Bu-ml8">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1354,6 +1360,9 @@ Golden Loop Rumble offers a dynamic gaming experience, merging learning with ent
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="6yr-J9-8s0"/>
+                    <connections>
+                        <outlet property="startBtn" destination="6VC-lA-C0Z" id="JXj-u1-iD9"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DBo-VK-jj5" sceneMemberID="firstResponder"/>
             </objects>

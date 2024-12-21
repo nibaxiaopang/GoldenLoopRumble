@@ -7,4 +7,6 @@ target 'GoldenLoopRumble' do
 
   # Pods for GoldenLoopRumble
   pod 'IQKeyboardManagerSwift'
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

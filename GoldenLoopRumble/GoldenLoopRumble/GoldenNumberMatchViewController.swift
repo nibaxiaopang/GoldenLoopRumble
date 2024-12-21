@@ -8,7 +8,7 @@
 
 import UIKit
 
-class NumberMatchGameVC: UIViewController {
+class GoldenNumberMatchViewController: UIViewController {
 
     @IBOutlet weak var gridView: UIView! // Grid container
     @IBOutlet weak var targetLabel: UILabel! // Displays target number

@@ -8,7 +8,7 @@
 
 import UIKit
 
-class AlphabetGameVC: UIViewController {
+class GoldenAlphabetGameViewController: UIViewController {
 
     @IBOutlet weak var gridView: UIView! // Grid container
     @IBOutlet weak var targetView: UIView! // Target selection view

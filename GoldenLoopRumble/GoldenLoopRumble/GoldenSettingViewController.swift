@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SettingVC: UIViewController {
+class GoldenSettingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
