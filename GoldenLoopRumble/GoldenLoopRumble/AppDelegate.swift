@@ -24,6 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         appsFlyer.waitForATTUserAuthorization(timeoutInterval: 60)
         appsFlyer.delegate = self
         
+        FirebaseApp.configure()
         return true
     }
 
